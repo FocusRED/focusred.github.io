@@ -1,0 +1,31 @@
+.form{
+  border: 5x solid #cfdede;
+  padding: 50px 30px 30px 30px ;
+  width: 301px;
+  height: 358px;
+  background-color: #fafdfd;
+  margin-top: 106px;
+  margin-bottom: 106px;
+  margin-left: 139px;
+  margin-right: 130px;
+
+}
+.email,.password{
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: 900
+
+}
+.form input{
+  margin-bottom: 10px;
+}
+.email{
+  margin-top: 1px;
+}
+.form-btn{
+  margin: 20px auto;
+  color: #e0f1f1;
+  background: #01bcbc;
+  text-transform: uppercase;
+  font-weight: 600
+}
