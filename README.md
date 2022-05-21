@@ -3,5 +3,5 @@
 
 [Урок 12](https://focusred.github.io/lessen_12/ "Моя готовая домашка") - Работа с репазиторием на Github
 
-[Урок 13](https://focusred.github.io/githab/) "Моя готовая домашка") - Адаптивная верстка
+[Урок 13](https://focusred.github.io/githab/ "Моя готовая домашка" - Адаптивная верстка
 
