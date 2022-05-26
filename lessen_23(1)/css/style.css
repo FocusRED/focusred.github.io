@@ -1,0 +1,32 @@
+.featur{
+  margin-left: 130px;
+  font-size: 36px;
+  margin-bottom: 50px;
+  margin-top: 70px;
+  text-align: center;
+  color: #0bbaf0;
+  line-height: 1;
+  text-transform: uppercase;
+}
+button{
+  color: #fff;
+  font-size:23px ;
+  height: 50px;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #0bbaf0;
+  border-color: #0bbaf0;
+
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #0bbaf0;
+    border-color: #0bbaf0;
+}
+.accordion{
+   padding-left: 140px;
+}
+p{
+  margin: 15px 170px 15px 15px;
+}
