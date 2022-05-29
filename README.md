@@ -29,3 +29,5 @@
 
 [Урок 25](https://focusred.github.io/lessen_25/ "Моя готовая домашка") - Анимация на CSS3
 
+[Урок 26](https://focusred.github.io/lessen_26/ "Моя готовая домашка") - Верстка блока с отзывами
+
