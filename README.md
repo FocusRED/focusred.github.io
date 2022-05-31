@@ -33,7 +33,9 @@
 
 [Урок 27](https://focusred.github.io/lessen_27/ "Моя готовая домашка") - Видео-фон на сайт
 
-[Урок 28](https://focusred.github.io/lessen_2/ "Моя готовая домашка") - Доверстали блок с отзывами
+[Урок 28](https://focusred.github.io/lessen_28/ "Моя готовая домашка") - Доверстали блок с отзывами
+
+[Урок 29](https://focusred.github.io/lessen_29/ "Моя готовая домашка") - Parallax эффект для сайта.
 
 
 
